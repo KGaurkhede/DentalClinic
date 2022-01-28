@@ -1,0 +1,123 @@
+body{
+    background-color:whitesmoke;
+    background-image: url("leaf1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    padding:10px;
+}
+a{
+    color:white;
+}
+
+    
+a:hover{
+    color:white;
+}
+
+.service-box{
+    margin-top:35px;
+
+}
+.service-box h4{
+    margin-top:25px;
+}
+
+}
+
+.header-box h3{
+    text-align:center;
+    margin-top:10px;
+}
+
+.header-box
+{
+    text-align: center;
+    text-decoration-style: dotted;
+}
+.header-box1 h1
+{
+    color:rgb(10, 139, 219);
+    font-weight: bold;
+    font-size: 60px;
+    padding:0px;
+    text-shadow: 2px 2px blue;
+}
+.header-box1 p{
+    font-style: bold;
+}
+header-box h2{
+    font-family:sans-serif;
+}
+.row service-box
+{
+    height:50px;
+}
+.button{
+    background-color:rgb(10,139,219);
+    color:white;
+    border:none;
+    padding:10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 5px;
+}
+.button1 {
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+width:20%;
+margin-top:20px;
+    
+}
+.button2 {
+    
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+width:20%;
+margin-top:20px;
+}
+
+
+.p1-container{
+    margin-top:30px;
+}
+.footer-container{
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

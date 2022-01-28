@@ -1,0 +1,135 @@
+body{
+    background-color:whitesmoke;
+    background-image: url("leaf1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+header p{
+	text-align:center;
+	background-color:black;
+	color:white;
+	padding:10px;
+}
+
+
+.service-box{
+    margin-top:35px;
+    }
+
+    
+.service-box h4{
+    margin-top:25px;
+}
+
+
+.header-box1 h1
+{
+    color:rgb(10, 139, 219);
+    font-weight: bold;
+    font-size: 60px;
+    padding:0px;
+    text-shadow: 2px 2px blue;
+    text-align:center;
+    margin-top:30px;
+}
+
+.header-box1 p{
+    
+    text-align:center;
+
+}
+.form-container{
+	text-align:center;
+	margin-top:30px;
+
+}
+
+
+input[type=text]{
+	background-color:rgb(10,139,219);
+	width:25%;
+	border:none;
+	padding:05px;
+}	
+
+
+input[type=password]{
+	background-color:rgb(10,139,219);
+	width:25%;
+	border:none;
+	padding:05px;
+}	
+
+.button-container{
+	text-align:center;
+
+}
+
+.button{
+    background-color:rgb(10,139,219);
+    color:white;
+    border:none;
+    padding:10px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 5px;
+     
+}
+.button1{
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+width:20%;
+margin-top:20px;
+margin-left:80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

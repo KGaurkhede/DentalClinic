@@ -1,0 +1,26 @@
+
+p{
+ text-align: center;
+ background-color:black;
+ color:white;
+ padding:10px;
+ font-size:20px;
+}
+ 
+
+.container-fluid table{
+font-family: arial, sans-serif;
+  border-collapse: collapse;
+  border:2px solid black;
+  width: 100%;
+}
+	
+ .container-fluid td, th {
+  border: 1px solid #dddddd;
+  text-align:left;
+  padding: 8px;
+}
+
+.container-fluid tr:nth-child(even) {
+  background-color:#dddddd;
+}

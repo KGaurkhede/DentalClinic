@@ -1,0 +1,83 @@
+body{
+    background-color:whitesmoke;
+    background-image: url("leaf1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+	text-align:center;
+	padding:5px;
+}
+
+
+.header-box1 h1
+{
+    color:rgb(10, 139, 219);
+    font-weight: bold;
+    font-size: 60px;
+    padding:0px;
+    text-shadow: 2px 2px blue;
+    text-align:center;
+    margin-top:3px;
+    }
+
+    .header-box1 p
+    {
+    	text-align:center;
+    font-style: bold;
+}
+
+form{
+border-left:1px solid black;
+border-right:1px solid black;
+border-bottom:1px solid black;
+}
+
+form input[type=text]{
+	border:1px solid black;
+
+}
+
+form h3{
+	background-color:rgb(10, 139, 219);
+	padding:5px;
+
+} 
+
+.button{
+    background-color:rgb(10,139,219);
+    color:white;
+    border:none;
+    padding:10px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 5px;
+}
+
+.button1{
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+width:25%;
+margin-left:10%;
+margin-top:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
